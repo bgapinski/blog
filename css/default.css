@@ -59,3 +59,8 @@ div.post-title {
     font-size: 20px;
     font-weight: bold;
 }
+
+div.post-body {
+  text-align: justify;
+  margin: 10px;
+}
