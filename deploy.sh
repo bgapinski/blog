@@ -22,7 +22,7 @@ cd "../"
 echo "Building site..."
 ./site build > /dev/null
 cp -r $SITE/* $DEPLOY
-cp -r "deployAssets/*" $DEPLOY
+cp -r deployAssets/* $DEPLOY
 cd $DEPLOY
 
 echo "Pushing site to git..."
