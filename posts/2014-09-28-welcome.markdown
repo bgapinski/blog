@@ -1,0 +1,10 @@
+---
+title: Welcome!
+---
+
+Welcome to my new blog! There isn't much here right now,
+but I plan to ramble at length here. It took me awhile
+to get everything setup and I will probably talk about that
+at another time. For now, this is mainly a post
+so that there is something here (instead of all
+the lorem ipsum text). So here is to the future!
